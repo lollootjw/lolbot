@@ -1,2 +1,0 @@
-# lolbot
-leuke bot
